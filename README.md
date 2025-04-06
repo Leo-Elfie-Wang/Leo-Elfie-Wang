@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leo-Elfie-Wang
+- 👋 Hi, I’m @Leo Wang
 - 👀 I’m interested in LLM, AI, Python, etc.
 - 🌱 I’m currently learning Python and trying to run GraphRAG locally.
 - 💞️ I’m looking to collaborate on AI, LLM with people who are passionate in similar region with me.
